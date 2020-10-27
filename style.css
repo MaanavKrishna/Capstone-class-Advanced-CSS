@@ -1,0 +1,71 @@
+h1
+{
+color: aquamarine;
+display: flex;
+justify-content: center;
+font-style: italic
+}
+h2
+{
+color: aquamarine;
+font-size: larger ;
+font-style: italic
+}
+h3
+{
+color: aquamarine;
+font-size: larger ;
+font-style: italic
+}
+p
+{
+color: aquamarine;
+font-size: larger ;
+font-style: italic ;
+}
+*
+{
+background-color: #000000
+}
+.row1
+{
+background-color: #000000;
+display: flex ; 
+flex-direction: column;
+align-items: center;
+font-size: larger ;
+font-style: italic
+}
+.row1 p
+{
+opacity: 0;
+}
+.row1:hover p
+{
+opacity: 1;
+}
+.row2
+{
+background-color: #000000;
+display: flex ; 
+flex-direction: column;
+align-items: center;
+font-size: larger ;
+font-style: italic
+}
+.row2 p
+{
+opacity: 0;
+}
+.row2:hover p
+{
+opacity: 1;
+}
+.game12
+{
+background-color: #000000 ;
+display: flex ; 
+justify-content: space-between;
+font-size: larger ;
+font-style: italic
+}
