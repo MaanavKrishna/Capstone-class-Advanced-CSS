@@ -31,7 +31,9 @@ Download the code to your local system by running:
 
 2.Open the Project:
 Navigate to the project folder and open the index.html file in a browser.
-	3.	Explore and Customize:
+
+
+3.Explore and Customize:
 Modify the files to tailor the design to your own preferences.
 
 🤝 Contributions
