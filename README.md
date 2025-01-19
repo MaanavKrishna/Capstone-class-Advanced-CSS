@@ -29,8 +29,7 @@ Download the code to your local system by running:
 
        git clone https://github.com/MaanavKrishna/Capstone-class-Advanced-CSS.git  
 
-
-2.	Open the Project:
+2.Open the Project:
 Navigate to the project folder and open the index.html file in a browser.
 	3.	Explore and Customize:
 Modify the files to tailor the design to your own preferences.
