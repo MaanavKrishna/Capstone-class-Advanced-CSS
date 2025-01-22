@@ -1,6 +1,6 @@
 # Capstone Project: Advanced CSS Mastery 🌟
 
-Welcome to the Capstone Project: Advanced CSS Mastery repository! This project is the culmination of advanced CSS concepts, designed to challenge your skills and inspire creativity in web design. From sleek animations to fluid layouts, this project demonstrates how CSS can be used to craft beautiful, modern websites.
+Welcome to the Capstone Project: Advanced CSS Mastery repository! This project is the culmination of advanced CSS concepts, designed to challenge your skills and inspire creativity in web design. From sleek animations to fluid layouts, this project demonstrates how CSS can be used to craft beautiful, modern websites
 
 🌐 Project Overview
 
